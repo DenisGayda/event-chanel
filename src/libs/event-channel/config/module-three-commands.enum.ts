@@ -1,0 +1,5 @@
+export enum ModuleThreeCommands {
+  CREATE_THREE= 'CREATE_THREE',
+  UPDATE_THREE= 'UPDATE_THREE',
+  DELETE_THREE = 'DELETE_THREE',
+}
